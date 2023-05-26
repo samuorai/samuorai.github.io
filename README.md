@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Electrical Engineering Website</title>
+	<title>Wael Osama Website/title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<header>
-		<h1>Electrical Engineering</h1>
+		<h1>Wael Osama </h1>
 		<nav>
 			<ul>
 				<li><a href="#">Home</a></li>
@@ -61,7 +61,7 @@
 	</main>
 
 	<footer>
-		<p>&copy; 2023 Electrical Engineering. All rights reserved.</p>
+		<p>&copy; 2023 Wael Osama. All rights reserved.</p>
 	</footer>
 </body>
 </html>
