@@ -43,11 +43,11 @@
         <img src="assets/img/PP.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Wael Osama</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="https://www.facebook.com/KirellosEmadSamirLabib" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.facebook.com/wael.elwahsh" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="https://instagram.com/kirellos_emad_samir2022\" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="https://api.whatsapp.com/send/?phone=201285677896&text&app_absent=0&fbclid=IwAR0Us2goqyiVQFPCOLtpxfliZFLqpEyMsHVvqnw6VqbVmqRfu6KaGIbCw2o" target="_blank" class="google-plus"><i class="bx bxl-whatsapp"></i></a>
+          <a href="https://api.whatsapp.com/send/?phone=201000097615&text&app_absent=0&fbclid=IwAR0Us2goqyiVQFPCOLtpxfliZFLqpEyMsHVvqnw6VqbVmqRfu6KaGIbCw2o" target="_blank" class="google-plus"><i class="bx bxl-whatsapp"></i></a>
           <a href="https://www.linkedin.com/in/kirellos-emad-samir-07564a175/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-          <a href="https://github.com/KirellosEmadSamir" target="_blank" class="google-plus"><i class="bx bxl-github"></i></a>
+          <a href="https://github.com/samuorai" target="_blank" class="google-plus"><i class="bx bxl-github"></i></a>
         </div>
       </div>
       <nav id="navbar" class="nav-menu navbar">
@@ -101,7 +101,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>27 July 1998</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://kirellosemadsamir.github.io</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://samuorai97.github.io</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>01285677896</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>October City</span></li>
                 </ul>
@@ -222,22 +222,22 @@
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Kirellos Emad Samir</h4>
+              <h4>Wael Osama Badr</h4>
               <p><em>I enjoy creating things that live on the internet, whether that be websites, applications, or
                   anything in between. My goal is to always build products that provide pixel-perfect, performant
                   experiences.</em></p>
               <ul>
-                <li>Giza,Egypt - 11761</li>
-                <li>01285677896</li>
-                <li>Kirellos_emad@yahoo.com</li>
+                <li>Alexandria,Egypt - 11761</li>
+                <li>01000097615</li>
+                <li>samuorai97@gmail.com</li>
               </ul>
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>6<sup>th</sup> of October University,Mechatronics Engineeringy</h4>
+              <h4>6<sup>th</sup> Military Academy</h4>
               <h5>2016-2021</h5>
-              <p><em>Bachelor Degree</em></p>
+              <p><em>Master Degree</em></p>
               <p>
                 <li>
                   General Grade; : 3.04/4 CGPA
@@ -316,13 +316,13 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>Kirellos_emad@yahoo.com</p>
+                <p>samuorai97@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>01285677896</p>
+                <p>01000097615</p>
               </div>
 
             </div>
