@@ -41,7 +41,7 @@
 
       <div class="profile">
         <img src="assets/img/PP.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Kirellos Emad Samir</a></h1>
+        <h1 class="text-light"><a href="index.html">Wael Osama</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.facebook.com/KirellosEmadSamirLabib" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="https://instagram.com/kirellos_emad_samir2022\" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
@@ -68,7 +68,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Kirellos Emad Samir</h1>
+      <h1>Wael Osama</h1>
       <p>I'm <span class="typed" data-typed-items="Embedded Software Engineer, Hardware Designer, Freelancer"></span></p>
     </div>
     </section><!-- End Hero -->
