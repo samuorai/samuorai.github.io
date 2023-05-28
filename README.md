@@ -44,10 +44,9 @@
         <h1 class="text-light"><a href="index.html">Wael Osama</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://www.facebook.com/wael.elwahsh" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="https://instagram.com/kirellos_emad_samir2022\" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="https://api.whatsapp.com/send/?phone=201000097615&text&app_absent=0&fbclid=IwAR0Us2goqyiVQFPCOLtpxfliZFLqpEyMsHVvqnw6VqbVmqRfu6KaGIbCw2o" target="_blank" class="google-plus"><i class="bx bxl-whatsapp"></i></a>
-          <a href="https://www.linkedin.com/in/kirellos-emad-samir-07564a175/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-          <a href="https://github.com/samuorai" target="_blank" class="google-plus"><i class="bx bxl-github"></i></a>
+          <a href="https://www.linkedin.com/in/wael-badr-33b6b8180/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://samuorai97.github.io" target="_blank" class="google-plus"><i class="bx bxl-github"></i></a>
         </div>
       </div>
       <nav id="navbar" class="nav-menu navbar">
@@ -82,7 +81,7 @@
         <div class="section-title">
           <h2>About</h2>
           <p>I’m an ambitious man who is looking for challenging in embedded software development and put
-              my knowledge in embedded systems field in automotive industry, I worked on myself and
+              my knowledge in embedded systems field, I worked on myself and
               improved my skills individually, a very good quick self-learner.</p>
         </div>
 
@@ -93,33 +92,32 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Embedded Software Engineer</h3>
             <p class="fst-italic">
-              I’m an ambitious man who is looking for challenging in embedded software development and put
-              my knowledge in embedded systems field in automotive industry, I worked on myself and
+             I’m an ambitious man who is looking for challenging in embedded software development and put
+              my knowledge in embedded systems field, I worked on myself and
               improved my skills individually, a very good quick self-learner.
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>27 July 1998</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>15 August 1983</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://samuorai97.github.io</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>01285677896</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>October City</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>01000097615</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Alexandria</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>23</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>B.Sc. in Mechatronics Engineering</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>Kirellos_Emad@yahoo.com</span>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>40</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>embedded passionate</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>samuorai97@gmail.com</span>
                   </li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
               </div>
             </div>
             <p>
-              Currently I'm searching for an Embedded Software Engineer Job
-              Here are a few skills I've been working with recently:<br>
-              <strong>C/C++, Embedded C, Debugging, Scripting, Python, Assembly.</strong>
+              Currently I'm still learning embedded systems<br>
+              <strong>with a big motives to be a master in embedded systems.</strong>
             </p>
           </div>
         </div>
@@ -136,9 +134,8 @@
         <div class="section-title">
           <h2>Skills</h2>
           <p>
-            Currently I'm searching for an Embedded Software Engineer Job
-              Here are a few technologies I've been working with recently:
-            C/C++, Embedded C, Debugging, Scripting, Python, Assembly.
+           Currently I'm still learning embedded systems
+            with a big motives to be a master in embedded systems.
           </p>
         </div>
 
@@ -212,7 +209,7 @@
         <div class="section-title">
           <h2>Resume</h2>
           <p>
-            I am currently looking for new opportunities, my email inbox is always open. 
+            I am currently looking for new learning resources, my email inbox is always open. 
             Whether you have a question or just want to say hi, I will try my best to get 
             back to you!
           </p>
@@ -227,7 +224,7 @@
                   anything in between. My goal is to always build products that provide pixel-perfect, performant
                   experiences.</em></p>
               <ul>
-                <li>Alexandria,Egypt - 11761</li>
+                <li>Alexandria,Egypt - 11411</li>
                 <li>01000097615</li>
                 <li>samuorai97@gmail.com</li>
               </ul>
@@ -240,21 +237,21 @@
               <p><em>Master Degree</em></p>
               <p>
                 <li>
-                  General Grade; : 3.04/4 CGPA
+                  General Grade; : 3.5/4 CGPA
                   <br>
                 </li>
                 <li>
-                 Graduation Project [1,2] : Excellent
+                 Graduation Project  : Excellent
                 </li>
               </p>
             </div>
             <div class="resume-item">
-              <h4>Egyptian GSEC,Alsanta Secondary School</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Algharbia,Egypt</em></p>
+              <h4>Tarek ben Ziad high school</h4>
+              <h5>1999-2000</h5>
+              <p><em>Alexandria,Egypt</em></p>
               <p>
                 <li>
-                  <sup> Grade :  92.32% <br>
+                  <sup> Grade :  85% <br>
                 </li
               </p>
             </div>
@@ -263,9 +260,8 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Web developer on Skillenhanced company</h4>
-              <h5>2021- Present</h5>
-              <p><em>Noida, Delhi NCR </em></p>
+              <h4>embedded systems engineering</h4>
+              <h5>2014 - Present</h5>
               <ul>
                 <li>Designed and Developed static websites using wordpress (E-commerce)</li>
                 <li>Designing of background images and implement on website. </li>
